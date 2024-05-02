@@ -10,6 +10,7 @@ export default function App() {
   const [cardNumber, setCardNumber] = useState("");
   const [date, setDate] = useState("");
   const [cvc, setCvc] = useState("");
+  const [confirm, setConfirm] = useState("");
   return (
     <section>
       <div className="absolute -z-10">
@@ -103,6 +104,7 @@ export default function App() {
 
               <button
                 onClick={() => setConfrimed(true)}
+                value = {confrim}
                 type="submit"
                 className=""
               >
