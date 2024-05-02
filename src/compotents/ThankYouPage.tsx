@@ -1,4 +1,4 @@
-import Complete from "../images/card-logo.svg";
+import Complete from "../images/icon-complete.svg";
 
 function ThankYouPage() {
   return (
