@@ -110,7 +110,7 @@ export default function App() {
               </button>
             </form>
           )}
-          {confirm && <ThankYouPage setConfrimed={setConfrimed} />}
+          {confirm && <ThankYouPage setConfirmed={setConfirmed} />}
         </div>
       </div>
     </section>
