@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import MobileImg from "./images/bg-main-mobile.png";
 import DesktopImg from "./images/bg-main-desktop.png";
 import logo from "./images/card-logo.svg";
