@@ -1,4 +1,3 @@
-import App from "../App";
 import Complete from "../images/icon-complete.svg";
 import React from "react";
 
