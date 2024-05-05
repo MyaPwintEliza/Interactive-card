@@ -21,7 +21,7 @@ const ThankYouPage: React.FC<ThankYouPageProps> = ({ setConfirmed }) => {
       <p className="text-slate-800 text-center">
         We've added your card details
       </p>
-      <button onChange={App} className="btn block mx-auto mt-10 w-full">
+      <button className="btn block mx-auto mt-10 w-full">
         Continue
       </button>
     </div>
